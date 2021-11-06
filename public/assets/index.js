@@ -52,3 +52,5 @@ const handleRenderSaveBtn = () => {
     show(saveNoteBtn);
   }
 };
+
+module.exports = router;
