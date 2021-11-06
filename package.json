@@ -1,0 +1,15 @@
+{
+    "name": "Homework 11 - Note Taker",
+    "version": "1.0.0",
+    "description": "This applciation allows us to create a note, save it, and add it to a list.",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
+  
