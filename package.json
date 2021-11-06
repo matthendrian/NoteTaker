@@ -1,5 +1,5 @@
 {
-    "name": "Homework11-NoteTaker",
+    "name": "hw11",
     "version": "1.0.0",
     "description": "This applciation allows us to create a note, save it, and add it to a list.",
     "main": "server.js",
